@@ -1,0 +1,14 @@
+{
+  "resourceName": "mymovementcontent",
+  "policyUUID": "b8b82f79",
+  "bucketName": "mymovementcd63b0325d6c44eb803985c66f408ee6",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
